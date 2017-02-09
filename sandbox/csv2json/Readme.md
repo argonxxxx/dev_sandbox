@@ -8,6 +8,15 @@ usage windows
 
 	type sample.csv | csv2json.py
 
+sample.csv
+
+	1,2,3,4,5
+	a,aa,aaa,aaaa,aaaaa
+	b,bb,bbb,bbbb,bbbbb
+	c,cc,ccc,cccc,ccccc
+	d,dd,ddd,dddd,ddddd
+
+
 output sample
 
 
